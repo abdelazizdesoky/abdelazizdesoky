@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abdelazizdesoky
-- 👀 I’m interested in php 
-- 🌱 I’m currently learning php & JS
+- 👀 I’m interested in php -laravel
 - 📫 How to reach me  a.desoky@outlook.com
 
 <!---
